@@ -4,7 +4,7 @@
  
  <p>I'm a future <strong>Web Developer</strong> <br />¡These are my social networks👇!</p>
  
- <p align="center">
+ <p>
   <a href="#" target="blank" style='margin-right:4px'>
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jose Ramon Montes Hermida" height="28px" width="28px" />
    </a>
