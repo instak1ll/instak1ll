@@ -1,8 +1,8 @@
-<p align="center" width="300">
-    <h3 align="center">Hey 👋! I'm Artem 👨🏻‍💻</h3>
+<p width="300">
+    <h3>Hey 👋! I'm Artem 👨🏻‍💻</h3>
  </p>
  
- <p align="center">I'm a future <strong>Web Developer</strong> <br />¡These are my social networks👇!</p>
+ <p>I'm a future <strong>Web Developer</strong> <br />¡These are my social networks👇!</p>
  
  <p align="center">
   <a href="#" target="blank" style='margin-right:4px'>
