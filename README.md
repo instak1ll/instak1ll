@@ -1,5 +1,4 @@
 <p align="center" width="300">
-    <img align="center" width="200" src="https://user-images.githubusercontent.com/63525176/202587595-23228b59-2aec-44e9-9a01-280441d501bf.png"/>
     <h3 align="center">Hey 👋! I'm Artem 👨🏻‍💻</h3>
  </p>
  
